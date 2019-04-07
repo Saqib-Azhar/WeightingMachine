@@ -28,3 +28,15 @@ C:\Users\saqib\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.WeightEntries.res
 C:\Users\saqib\Desktop\WeightingMachine\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
 C:\Users\saqib\Desktop\WeightingMachine\LoginForm\LoginForm\obj\Debug\LoginForm.exe
 C:\Users\saqib\Desktop\WeightingMachine\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\saqib\Desktop\WeightingMachine\LoginForm\LoginForm\bin\Debug\Database1.mdf
+C:\Users\saqib\Desktop\WeightingMachine\LoginForm\LoginForm\bin\Debug\Database1_log.ldf
+C:\Users\saqib\Desktop\WeightingMachine\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\saqib\Desktop\WeightingMachine\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\saqib\Desktop\WeightingMachine\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\saqib\Desktop\WeightingMachine\LoginForm\LoginForm\obj\Debug\LoginForm.MainForm.resources
+C:\Users\saqib\Desktop\WeightingMachine\LoginForm\LoginForm\obj\Debug\LoginForm.frmLogin.resources
+C:\Users\saqib\Desktop\WeightingMachine\LoginForm\LoginForm\obj\Debug\LoginForm.ProductsForm.resources
+C:\Users\saqib\Desktop\WeightingMachine\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\saqib\Desktop\WeightingMachine\LoginForm\LoginForm\obj\Debug\LoginForm.UsersForm.resources
+C:\Users\saqib\Desktop\WeightingMachine\LoginForm\LoginForm\obj\Debug\LoginForm.WeightEntries.resources
+C:\Users\saqib\Desktop\WeightingMachine\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache

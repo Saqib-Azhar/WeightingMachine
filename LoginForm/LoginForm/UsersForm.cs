@@ -13,7 +13,7 @@ namespace LoginForm
 {
     public partial class UsersForm : Form
     {
-        String cs = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\saqib\Desktop\LoginForm\LoginForm\Database1.mdf;Integrated Security=True";
+        String cs = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\saqib\Desktop\WeightingMachine\LoginForm\LoginForm\Database1.mdf;Integrated Security=True";
 
         public UsersForm()
         {
