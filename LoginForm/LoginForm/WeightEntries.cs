@@ -93,13 +93,14 @@ namespace LoginForm
         private void loadAllPorts()
         {
 
-            string[] portNames = SerialPort.GetPortNames();     //<-- Reads all available comPorts
+            string[] portNames = System.IO.Ports.SerialPort.GetPortNames();     //<-- Reads all available comPorts
             foreach (var portName in portNames)
             {
                 comboBox2.Items.Add(portName);                  //<-- Adds Ports to combobox
             }
 
-            //comboBox2.SelectedIndex = 0;
+            comboBox2.SelectedIndex = 0;
+            
         }
 
 
